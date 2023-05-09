@@ -7,7 +7,11 @@ function App() {
 			<div className="header">
 				<h1>CV Maker</h1>
 			</div>
-			<div className="content"></div>
+			<div className="content">
+				<div className="outer">
+					<General />
+				</div>
+			</div>
 		</div>
 	);
 }
