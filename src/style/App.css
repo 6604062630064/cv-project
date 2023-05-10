@@ -83,6 +83,9 @@ h1 {
 }
 
 .outer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
     background-color: #AFD3E2;
     padding: 30px;
     border-radius: 25px;
@@ -93,4 +96,11 @@ form {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    gap: 15px;
 }
