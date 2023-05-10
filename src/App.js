@@ -1,6 +1,7 @@
 import "./style/App.css";
 import General from "./components/General.js";
 import Education from "./components/Education";
+import Experience from "./components/Experience";
 function App() {
 	return (
 		<div className="App">
@@ -11,6 +12,7 @@ function App() {
 				<div className="outer">
 					<General />
 					<Education />
+					<Experience />
 				</div>
 			</div>
 		</div>
