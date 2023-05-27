@@ -1,3 +1,3 @@
 # cv-project
 
-A simple webside made with React.
+A simple website made with React.
